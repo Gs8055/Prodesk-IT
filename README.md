@@ -20,7 +20,26 @@ Light mode
 
 Dark Mode
 
-<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/6d644abe-6b77-4cf9-89b0-cfe68361e7ba" />
-<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/eae2f038-9aa0-46d1-8445-7116231a0b33" />
-<img width="1904" height="957" alt="Screenshot 2026-03-26 233418" src="https://github.com/user-attachments/assets/e2b0880f-4904-42b4-b640-2f7cefa7db37" />
-<img width="1919" height="811" alt="Screenshot 2026-03-26 233400" src="https://github.com/user-attachments/assets/f794b07d-1043-4130-a431-794b14b4ddea" />
+
+<img width="1881" height="948" alt="Screenshot 2026-03-26 233520" src="https://github.com/user-attachments/assets/019582b1-0055-4c6a-92a2-49e57765aace" />
+
+
+<img width="1919" height="964" alt="Screenshot 2026-03-26 233531" src="https://github.com/user-attachments/assets/d2f1f1f0-0a47-44dd-8fb1-c7fa7b7a273f" />
+
+
+<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/cffb2d69-187a-46ab-a6f8-87f06190e052" />
+
+
+After Resize the window
+<img width="661" height="863" alt="Screenshot 2026-03-26 233607" src="https://github.com/user-attachments/assets/aa7dc8f7-49db-4b03-a7fe-1636add9b79a" />
+
+
+<img width="674" height="697" alt="Screenshot 2026-03-26 233626" src="https://github.com/user-attachments/assets/d3bed79e-1506-4e19-bb0e-57b0530d0f3f" />
+
+
+<img width="647" height="786" alt="Screenshot 2026-03-26 233640" src="https://github.com/user-attachments/assets/d0df31a6-5514-4a93-bc3e-bae1b51271f9" />
+
+
+
+
+
