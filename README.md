@@ -1,4 +1,4 @@
-<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/6d644abe-6b77-4cf9-89b0-cfe68361e7ba" /><img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/eae2f038-9aa0-46d1-8445-7116231a0b33" /><img width="1904" height="957" alt="Screenshot 2026-03-26 233418" src="https://github.com/user-attachments/assets/e2b0880f-4904-42b4-b640-2f7cefa7db37" /><img width="1919" height="811" alt="Screenshot 2026-03-26 233400" src="https://github.com/user-attachments/assets/f794b07d-1043-4130-a431-794b14b4ddea" /># Prodesk-IT
+# Prodesk-IT
 
 https://gs8055.github.io/Prodesk-IT/
 
@@ -16,3 +16,11 @@ ploading Screenshot 2026-03-26 233418.png…]()
 ![Uploading Screenshot 2026-03-26 <img width="1919" height="964" alt="Screenshot 2026-03-26 233531" src="https://github.com/user-attachments/assets/c416b820-e69e-48fc-8a36-51b826697cac" />
 23354<img width="1881" height="948" alt="Screenshot 2026-03-26 233520" src="https://github.com/user-attachments/assets/9db03029-2f8f-4cf6-a9aa-050007c112eb" />
 1.png…]()
+
+
+Dark Mode
+
+<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/6d644abe-6b77-4cf9-89b0-cfe68361e7ba" />
+<img width="1915" height="934" alt="Screenshot 2026-03-26 233541" src="https://github.com/user-attachments/assets/eae2f038-9aa0-46d1-8445-7116231a0b33" />
+<img width="1904" height="957" alt="Screenshot 2026-03-26 233418" src="https://github.com/user-attachments/assets/e2b0880f-4904-42b4-b640-2f7cefa7db37" />
+<img width="1919" height="811" alt="Screenshot 2026-03-26 233400" src="https://github.com/user-attachments/assets/f794b07d-1043-4130-a431-794b14b4ddea" />
