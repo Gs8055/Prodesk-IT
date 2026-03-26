@@ -3,7 +3,7 @@
 https://gs8055.github.io/Prodesk-IT/
 
 
-Light mode
+#Light mode
 
 
 <img width="1919" height="811" alt="Screenshot 2026-03-26 233400" src="https://github.com/user-attachments/assets/e6d5f6ae-e04b-4748-8e66-cec3d53188f2" />
@@ -18,7 +18,7 @@ Light mode
 
 
 
-Dark Mode
+#Dark Mode
 
 
 <img width="1881" height="948" alt="Screenshot 2026-03-26 233520" src="https://github.com/user-attachments/assets/019582b1-0055-4c6a-92a2-49e57765aace" />
@@ -31,6 +31,9 @@ Dark Mode
 
 
 After Resize the window
+
+
+
 <img width="661" height="863" alt="Screenshot 2026-03-26 233607" src="https://github.com/user-attachments/assets/aa7dc8f7-49db-4b03-a7fe-1636add9b79a" />
 
 
